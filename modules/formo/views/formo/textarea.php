@@ -1,0 +1,1 @@
+<p><?=$field->css('width', '300px')->rows(20)?></p>
